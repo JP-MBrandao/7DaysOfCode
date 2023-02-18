@@ -1,0 +1,22 @@
+#lista {
+    display: none;
+}
+.corpo{
+    width: 940px;
+    margin: 0 auto;
+}
+.pergunta{
+    margin: 10px 0;
+    font-size: 20px;
+    display: block;
+}
+.resposta{
+    font-size: 18px;
+    color: #555555;
+}
+.caixaTexto{
+    font-size: 18px;
+    padding: 5px 0;
+    width: 20%;
+    color: #555555;
+}

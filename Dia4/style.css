@@ -1,0 +1,27 @@
+.pergunta{
+    width: 940px;
+    margin: 10px auto;
+}
+.informacao{
+    font-size: 20px;
+    margin: 20px 0;
+    display: block;
+}
+#chute{
+    width: 20%;
+    padding: 10px;
+    height: 20px;
+    margin: 10px 0;
+    display: block;
+}
+#botaoEnviar{
+    padding: 10px;
+    width: 10%;
+    font-weight: bold;
+}
+#tentativas{
+    color: red;
+    font-weight: bold;
+    font-size: 25px;
+    margin: 20px 0;
+}
