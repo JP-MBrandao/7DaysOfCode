@@ -66,7 +66,7 @@ function removerLista(){
     let contador = 0
     for (let i=0; i< tipoAlimento.length; i++){
         let respostaRemover = document.getElementById('respostaRemover').value;
-        if (listaDeLista[i].indexOf(respostaRemover) != -1){
+        if (listaDeLista[i].includes(respostaRemover)){
             listaDeLista[i].splice(respostaRemover);
             alert('Alimento removido!');
             document.getElementById('respostaRemover').value = '';

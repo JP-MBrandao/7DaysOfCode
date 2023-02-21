@@ -1,3 +1,4 @@
+//Declarando as funções de operação
 function multiplicar (valor1,valor2){
     let resultado = valor1 * valor2
     alert(`O resultado da operação é ${resultado}`)
@@ -14,7 +15,7 @@ function subtrair (valor1,valor2){
     let resultado = valor1 - valor2
     alert(`O resultado da operação é ${resultado}`)
 }
-
+//Declarando função para realizar a operação
 function pegarValor(operacao){
     let valor1 = prompt("Qual o primeiro número?");
     let valor2 = prompt("Qual o segundo número?");
@@ -22,6 +23,7 @@ function pegarValor(operacao){
     calculadora();
 }
 
+//Função para executar e receber os valores e posteriormente realizar a conta
 function calculadora (){
     let resposta = prompt("O que deseja realizar? Uma multiplicação(*), divisão(/), adição(+), subtração(-) ou sair(S)? ") 
 

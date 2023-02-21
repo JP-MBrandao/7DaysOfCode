@@ -1,3 +1,5 @@
+FUNÇÃO EM JAVASCRIPT (CALCULADORA)
+
 Você praticou muita coisa sobre lógica de programação com Javascript, mas ainda falta uma coisa muito importante: organizar o seu código.
 
 E sim, isso é algo obrigatório para aprender como pessoa desenvolvedora, pois uma hora ou outra na sua carreira você vai precisar dar manutenção no seu código criado, ou até ajeitar algo no código que outra pessoa escreveu.
