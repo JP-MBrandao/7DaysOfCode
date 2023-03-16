@@ -1,6 +1,6 @@
 Possível testar através do link [Lista com remoção](https://7-days-of-code-4y7u.vercel.app/)
 
-##REMOÇÃO DE ARRAYS
+#REMOÇÃO DE ARRAYS
 
 Você deverá criar a opção de remover algum item da lista, que será exibida junto à pergunta de "você deseja adicionar uma comida na lista de compras"?
 
