@@ -1,4 +1,6 @@
-LOOPS E RANDOMIZAÇÃO (ADIVINHAR NÚMERO)
+Possível testar através do link [Adivinha número](https://7-days-of-code-coral.vercel.app/))
+
+#LOOPS E RANDOMIZAÇÃO (ADIVINHAR NÚMERO)
 
 Você já brincou de tentar adivinhar o número que seu amigo ou amiga estava pensando? Hoje você vai voltar na infância e fazer exatamente isso. Mas agora, o jogo vai ser contra o próprio computador!
 
